@@ -26,7 +26,7 @@ A comprehensive platform for documenting and supporting destitutes across India,
 - **Mobile-First Design**: Responsive CSS with modern animations
 
 ## 🚀 Quick Start
-
+ 
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB (local installation or MongoDB Atlas)
